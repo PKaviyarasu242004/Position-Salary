@@ -3,7 +3,8 @@ POSITION SALARY
 Overview:
       This dashboard provides a detailed analysis of employee salary distribution based on position,   gender, experience, and location. It visually represents how salary and experience vary across different demographic and geographical dimensions using various chart types and a map.
 
-      ![image](https://github.com/user-attachments/assets/392c0ce2-b63e-4b3c-ad85-f5f84cc3dc9f)
+![image](https://github.com/user-attachments/assets/14bbab9a-3b4d-4255-9ff7-0e317b5b105c)
+
 
 Dashboard Components:
 1. Map Visualization (Gender by Location)
